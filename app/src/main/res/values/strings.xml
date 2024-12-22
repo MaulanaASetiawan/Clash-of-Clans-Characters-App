@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">COC Elixir Troops</string>
+    <string name="chara_name">Nama Karakter</string>
+    <string name="description"> Deskripsi Karakter</string>
+    <string name="profile">Profile</string>
+    <string name="name">Maulana Agus Setiawan</string>
+    <string name="path">Mobile Development</string>
+    <string name="email">maulanaa.agss@gmail.com</string>
+    <string name="whatsapp">+6285171231400</string>
+    <string name="instagram">lanaa.stiawan</string>
+    <string name="github">MaulanaASetiawan</string>
+
+    <string name="stat">Stats</string>
+    <string name="dmgPerSecond">Damage Per Second</string>
+    <string name="hp">Hitpoints</string>
+    <string name="attack_type">Attack Type</string>
+    <string name="share">share</string>
+    <string-array name="char_name">
+        <item>Barbarian</item>
+        <item>Archer</item>
+        <item>Giant</item>
+        <item>Goblin</item>
+        <item>Wall Breaker</item>
+        <item>Baloon</item>
+        <item>Wizard</item>
+        <item>Healer</item>
+        <item>Dragon</item>
+        <item>P.E.K.K.A</item>
+        <item>Baby Dragon</item>
+        <item>Miner</item>
+        <item>Electro Dragon</item>
+        <item>Yeti</item>
+        <item>Dragon Rider</item>
+        <item>Electro Titan</item>
+        <item>Root Rider</item>
+    </string-array>
+    <string-array name="char_description">
+        <item>This fearless warrior relies on his bulging muscles and striking mustache to wreak havoc in enemy villages. Release a horde of Barbarians and enjoy the mayhem!</item>
+        <item>These sharpshooters like to keep their distance on the battlefield and in life. Nothing makes them happier than single-mindedly taking down their target</item>
+        <item>These big guys may seem calm, but show them a turret or cannon and you\'ll see their fury unleashed! Slow yet durable, these warriors are best used to soak up hits.</item>
+        <item>These pesky little creatures only have eyes for one thing: LOOT! They are faster than a Spring Trap, and their hunger for resources is limitless.</item>
+        <item>Nothing warms a Wall Breaker\'s cold and undead heart like blowing up walls. A squad of them will make way for your ground units, and they will do it with a BANG!</item>
+        <item>These promoted skeletons have traded in their joy of destroying walls for a joy of destroying defenses. Deploy them to take out pesky mortars and cannons!</item>
+        <item>The Wizard is a terrifying presence on the battlefield. Pair him up with some of his fellows and cast concentrated blasts of destruction on anything, land or sky!</item>
+        <item>This majestic creature lives to protect and aid her fellow troops. Any army is improved with her healing support, but make sure to protect her from air defenses!</item>
+        <item>The might of the dragons are known throughout the land. This scaly terror of the skies feels no mercy and nothing will escape the fiery splashes of his breath.</item>
+        <item>Is P.E.K.K.A a knight? A samurai? A robot? No one knows! P.E.K.K.A\'s armor absorbs even the mightiest of blows.</item>
+        <item>This firebreathing hatchling is shy around other air units, but leave it alone and it\'ll throw a fit! When not around other air units, Baby Dragons become enraged and gain bonus damage and attack speed.</item>
+        <item>These sneaky shovelers burrow underground, pass beneath walls and pop up next to their targets. While underground, Miners cannot be damaged and cannot trigger traps, but still gain bonuses from Spells.</item>
+        <item>Possessing iron-tough scales and a breath of devastating lightning, the Electro Dragon\'s favorite thing is raining destruction from above. When vanquished, the Electro Dragon even pummels the ground with lightning strikes!</item>
+        <item>This heavy-hitting furry fellow digs cold weather and his Yetimite buddies. Hurt him, and you\'ll make the Yetimites real angry.</item>
+        <item>This aerial engine of destruction readily and frankly, quite excitedly lays waste to any defense it comes across. The skeleton onboard swears he\'s not touching the controls.</item>
+        <item>Barely controlling her raw magical power, the Electro Titan is a formidable force on the battlefield. She channels some of her magic into a powerful electro whip while the rest spills out to damage everything around her.</item>
+        <item>This earth warrior is so in tune with nature she doesn’t need to walk herself. Riding into battle on top a tough tree root which can smash through walls and slam defenses into dust.</item>
+    </string-array>
+    <string-array name="char_dmg">
+        <item>48</item>
+        <item>40</item>
+        <item>94</item>
+        <item>72</item>
+        <item>110</item>
+        <item>290</item>
+        <item>275</item>
+        <item>80</item>
+        <item>390</item>
+        <item>810</item>
+        <item>165</item>
+        <item>152</item>
+        <item>420</item>
+        <item>330</item>
+        <item>430</item>
+        <item>240</item>
+        <item>115</item>
+    </string-array>
+
+    <string-array name="char_hp">
+        <item>290</item>
+        <item>68</item>
+        <item>2400</item>
+        <item>146</item>
+        <item>150</item>
+        <item>1140</item>
+        <item>290</item>
+        <item>1900</item>
+        <item>5300</item>
+        <item>7700</item>
+        <item>2100 </item>
+        <item>1400</item>
+        <item>5500</item>
+        <item>4100</item>
+        <item>5000 </item>
+        <item>8400</item>
+        <item>6500</item>
+    </string-array>
+    <string-array name="char_attack_type">
+        <item>Melee (Ground Only)</item>
+        <item>Ranged (Ground and Air)</item>
+        <item>Melee (Ground only)</item>
+        <item>Melee (Ground only)</item>
+        <item>Area Splash (Ground Only)</item>
+        <item>Area Splash (Ground Only)</item>
+        <item>Area Splash (Ground and Air)</item>
+        <item>Heal Splash (Ground Only)</item>
+        <item>Area Splash (Ground and Air)</item>
+        <item>Melee (Ground Only)</item>
+        <item>Area Splash (Ground and Air)</item>
+        <item>Single Target</item>
+        <item>Ranged (Ground and Air)</item>
+        <item>Melee (Ground Only)</item>
+        <item>Single Target</item>
+        <item>Ranged (Ground and Air)</item>
+        <item>Single Target (Ground only)</item>
+    </string-array>
+
+    <string-array name="char_pict">
+        <item>https://static.wikia.nocookie.net/clashofclans/images/4/4e/Barbarian_info.png/revision/latest?cb=20170927230429</item>
+        <item>https://static.wikia.nocookie.net/clashofclans/images/3/34/Archer_info.png/revision/latest?cb=20170927230509</item>
+        <item>https://static.wikia.nocookie.net/clashofclans/images/3/35/Giant_info.png/revision/latest?cb=20170927232347</item>
+        <item>https://static.wikia.nocookie.net/clashofclans/images/f/fa/Goblin_info.png/revision/latest?cb=20170927232755</item>
+        <item>https://static.wikia.nocookie.net/clashofclans/images/7/70/Wall_Breaker_info.png/revision/latest?cb=20170927230652</item>
+        <item>https://static.wikia.nocookie.net/clashofclans/images/2/2f/Balloon_info.png/revision/latest?cb=20170927230730</item>
+        <item>https://static.wikia.nocookie.net/clashofclans/images/1/14/Wizard_info.png/revision/latest?cb=20170927230801</item>
+        <item>https://static.wikia.nocookie.net/clashofclans/images/c/ca/Healer_info.png/revision/latest?cb=20170927230835</item>
+        <item>https://static.wikia.nocookie.net/clashofclans/images/2/28/Dragon_info.png/revision/latest?cb=20170927230914</item>
+        <item>https://static.wikia.nocookie.net/clashofclans/images/5/54/P.E.K.K.A_info.png/revision/latest?cb=20170927230947</item>
+        <item>https://static.wikia.nocookie.net/clashofclans/images/4/44/Baby_Dragon_info.png/revision/latest?cb=20180109183158</item>
+        <item>https://static.wikia.nocookie.net/clashofclans/images/5/56/Miner_info.png/revision/latest?cb=20170927231038</item>
+        <item>https://static.wikia.nocookie.net/clashofclans/images/0/00/Electro_Dragon_info.png/revision/latest?cb=20180608130641</item>
+        <item>https://static.wikia.nocookie.net/clashofclans/images/e/e2/Yeti_info.png/revision/latest/scale-to-width-down/1000?cb=20191208082207</item>
+        <item>https://static.wikia.nocookie.net/clashofclans/images/e/e0/Dragon_Rider_info.png/revision/latest?cb=20210614072354</item>
+        <item>https://static.wikia.nocookie.net/clashofclans/images/1/14/Electro_Titan_info.png/revision/latest/scale-to-width-down/1000?cb=20221010143225</item>
+        <item>https://static.wikia.nocookie.net/clashofclans/images/7/7b/Root_Rider_info.png/revision/latest/scale-to-width-down/1000?cb=20231211070946</item>
+    </string-array>
+</resources>

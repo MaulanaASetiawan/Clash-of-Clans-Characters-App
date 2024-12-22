@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Coc_Char" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/color1</item>
+        <item name="colorSecondary">@color/color4</item>
+    </style>
+
+    <style name="Theme.Coc_Char" parent="Base.Theme.Coc_Char" />
+</resources>
